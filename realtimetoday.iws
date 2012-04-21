@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b8ecf8a-aa03-43e1-bd42-e90e6996aa46" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/realtimetoday/Employees.groovy" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/realtimetoday/Employer.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/realtimetoday/Employer.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realtimetoday.iml" afterPath="$PROJECT_DIR$/realtimetoday.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realtimetoday.ipr" afterPath="$PROJECT_DIR$/realtimetoday.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realtimetoday.iws" afterPath="$PROJECT_DIR$/realtimetoday.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/realtimetoday/EmployeesTests.groovy" afterPath="$PROJECT_DIR$/test/unit/realtimetoday/EmployeesTests.groovy" />
-    </list>
+    <list default="true" id="7b8ecf8a-aa03-43e1-bd42-e90e6996aa46" name="Default" comment="" />
     <ignored path="realtimetoday.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
@@ -83,7 +74,7 @@
       <file leaf-file-name="Candidate.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/realtimetoday/Candidate.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="25" selection-start="72" selection-end="72" vertical-scroll-proportion="0.17757009">
+            <state line="14" column="24" selection-start="334" selection-end="334" vertical-scroll-proportion="0.49719626">
               <folding />
             </state>
           </provider>
@@ -499,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/realtimetoday/Candidate.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="72" selection-end="72" vertical-scroll-proportion="0.17757009">
+        <state line="14" column="24" selection-start="334" selection-end="334" vertical-scroll-proportion="0.49719626">
           <folding />
         </state>
       </provider>

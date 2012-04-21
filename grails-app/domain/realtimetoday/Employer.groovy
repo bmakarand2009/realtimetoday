@@ -7,22 +7,25 @@ class Employer {
         companyName(blank: false,unique: true)
 
     }
+    static embedded = ['address']
 
-    static hasMany = [employees: Employees]
 
     String companyName
     String companyUser
     String email
     
+
+    String phoneNo
+    String phoneType
+    String companyUrl
+    Integer ein
+
+    //Address
     String address1
     String address2
     String city
     String state
     String zipCode
-    String phoneNo
-    String phoneType
-    String companyUrl
-    Integer ein
 
     
     
